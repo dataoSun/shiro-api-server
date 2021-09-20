@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <shiro.version>1.4.2</shiro.version>
+        <shiro.version>1.8.0</shiro.version>
         <websocket.api.version>0.0.1-SNAPSHOT</websocket.api.version>
     </properties>
 
